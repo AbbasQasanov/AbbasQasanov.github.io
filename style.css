@@ -169,8 +169,13 @@ button:hover {
         box-sizing: border-box;
         
     }
+<<<<<<< HEAD
     #textlogo, #ad, #strela {
         display: none;
+=======
+    #textlogo, #ad, #srtela {
+    display: none;
+>>>>>>> ab1f4c05b4e2fdfc03cdb664bf0ec9c413a40c99
     }
     #vtext {
         font-size: 24px;
